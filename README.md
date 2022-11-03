@@ -5,7 +5,7 @@ Python and C++ developer that spends too much time implementing things from scra
 ## Working on:
  - [TwinSolver](https://github.com/ecjiang016/TwinSolver) - A two phase Rubik's Cube solving algorithm
  - Chessnut - A Chess engine with an efficently updated neural net (NNUE)
- - [ChessnutChess](https://github.com/ecjiang016/ChessnutChess) - The move generation for Chessnut. Running at 40 million nps and getting faster
+ - [ChessnutChess](https://github.com/ecjiang016/ChessnutChess) - The move generation for Chessnut. Running at 50 million nps and getting faster
 
 ## Some stats:
 
