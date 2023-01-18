@@ -1,6 +1,6 @@
 # Just a high schooler trying his best
 
-Python and C++ developer that spends too much time implementing things from scratch
+C++ and Python developer that likes making things go fast
 
 ## Working on:
  - [TwinSolver](https://github.com/ecjiang016/TwinSolver) - A two phase Rubik's Cube solving algorithm
