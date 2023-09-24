@@ -1,4 +1,4 @@
-# Just a high schooler trying his best
+# Just a guy trying his best
 
 C++ and Python developer that likes making things go fast
 
